@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row {
+    background-color: rgb(152, 157, 161);
+}
+img {
+    width: auto;
+    height: 30px;
+}
+.main, table{
+    width: 500px;
+    height: 400px;
+}
+table, tr {
+    border-bottom: 1px solid #0000;
+}
