@@ -1,5 +1,6 @@
 <?php
 
-for ($i = 0; $i <= 5000; $i++){
-    echo "Nomor $i <br>";
+for ($i = 1; $i <= 10; $i+=2){
+    echo "$i bisma<br>";
 }
+?>
